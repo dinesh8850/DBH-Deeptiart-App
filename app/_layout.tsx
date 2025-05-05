@@ -5,8 +5,11 @@ import * as SplashScreen from 'expo-splash-screen';
 import { StatusBar } from 'expo-status-bar';
 import { useEffect } from 'react';
 import 'react-native-reanimated';
+import { auth } from "../components/firebaseConfig"; 
+import React from 'react';
 
 import { useColorScheme } from '@/hooks/useColorScheme';
+import { CartProvider } from '@/components/Context/CartContext';
 
 // Prevent the splash screen from auto-hiding before asset loading is complete.
 SplashScreen.preventAutoHideAsync();
@@ -28,6 +31,7 @@ export default function RootLayout() {
   }
 
   return (
+    <CartProvider>
     <ThemeProvider value={colorScheme === 'dark' ? DarkTheme : DefaultTheme}>
       <Stack>
         <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
@@ -35,5 +39,6 @@ export default function RootLayout() {
       </Stack>
       <StatusBar style="auto" />
     </ThemeProvider>
+    </CartProvider>
   );
 }

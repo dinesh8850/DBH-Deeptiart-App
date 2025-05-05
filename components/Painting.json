@@ -1,0 +1,646 @@
+[
+    {
+      "id": "1",
+      "title": "Peacock",
+      "category": "Coloured",
+      "image": "https://deeptiart.com/Coloured-1.jpg",
+      "price": 10000,
+      "artist": "Deepti Heda"
+
+
+    },
+    {
+      "id": "2",
+      "title": "Mandala-4",
+      "artist": "Deepti Heda",
+      "category": "Mandala",
+      "image": "https://deeptiart.com/Mandala-4.jpg",
+      "price": 10000
+    },
+    {
+      "id": "3",
+      "title": "Lord Narsimha",
+      "artist": "Deepti Heda",
+      "category": "Sketch",
+      "image": "https://deeptiart.com/Sketch-1.jpg",
+      "price": 10000
+    },
+    {
+        "id": "4",
+        "title": " Radha Krishna",
+        "artist": "Deepti Heda",
+        "category": "Sketch",
+        "image": "https://deeptiart.com/Sketch-2.jpg",
+        "price": 10000
+      },
+
+    {
+        "id": "5",
+        "title": " Rose",
+        "artist": "Deepti Heda",
+        "category": "Sketch",
+        "image": "https://deeptiart.com/Sketch-3.jpg",
+        "price": 10000
+      },
+    {
+        "id": "6",
+        "title": " Shri Ram Hanuman Shiv",
+        "artist": "Deepti Heda",
+        "category": "Sketch",
+        "image": "https://deeptiart.com/Sketch-4.jpg",
+        "price": 10000
+      },
+    {
+        "id": "7",
+        "title": "Ram-maye Hanuman",
+        "artist": "Deepti Heda",
+        "category": "Sketch",
+        "image": "https://deeptiart.com/Sketch-5.jpg",
+        "price": 10000
+      },  
+    {
+        "id": "8",
+        "title": "Maa Laxmi",
+        "artist": "Deepti Heda",
+        "category": "Sketch",
+        "image": "https://deeptiart.com/Sketch-6.jpg",
+        "price": 10000
+      },
+    {
+        "id": "9",
+        "title": "Maa Durga",
+        "artist": "Deepti Heda",
+        "category": "Sketch",
+        "image": "https://deeptiart.com/Sketch-7.jpg",
+        "price": 10000
+      },
+    {
+        "id": "10",
+        "title": "Gangaur Pujan",
+        "category": "Sketch",
+        "image": "https://deeptiart.com/Sketch-8.jpg",
+        "price": 10000
+      },
+    {
+        "id": "11",
+        "title": "Lord Buddha",
+         "artist": "Deepti Heda",
+        "category": "Sketch",
+        "image": "https://deeptiart.com/Sketch-9.jpg",
+        "price": 10000
+      },
+    {
+        "id": "12",
+        "title": "Maa Durga",
+        "artist": "Deepti Heda",
+        "category": "Sketch",
+        "image": "https://deeptiart.com/Sketch-10.jpg",
+        "price": 10000
+      },
+     {
+      "id": "13",
+      "title": "Lord Ram",
+      "category": "Sketch",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Sketch-11.jpg",
+      "price": 10000
+     },
+    {
+        "id": "14",
+        "title": "Trishul-Lord Ganesh",
+        "category": "Sketch",
+        "artist": "Deepti Heda",
+        "image": "https://deeptiart.com/Sketch-12.jpg",
+        "price": 10000
+      }, 
+    {
+        "id": "15",
+        "title": "Lord Ganesh",
+        "category": "Sketch",
+        "artist": "Deepti Heda",
+        "image": "https://deeptiart.com/Sketch-13.jpg",
+        "price": 10000
+      },
+    {
+        "id": "16",
+        "title": "Bal Ganesh",
+        "category": "Sketch",
+        "artist": "Deepti Heda",
+        "image": "https://deeptiart.com/Sketch-14.jpg",
+        "price": 10000
+      },
+    {
+        "id": "17",
+        "title": "Women's Day",
+        "category": "Sketch",
+        "artist": "Deepti Heda",
+        "image": "https://deeptiart.com/Sketch-15.jpg",
+        "price": 10000
+      },
+    {
+        "id": "18",
+        "title": "Ramdev Baba",
+        "category": "Sketch",
+        "artist": "Deepti Heda",
+        "image": "https://deeptiart.com/Sketch-16.jpg",
+        "price": 10000
+      },
+    {
+        "id": "19",
+        "title": "Lord Shiv",
+        "category": "Sketch",
+        "image": "https://deeptiart.com/Sketch-18.jpg",
+        "price": 10000,
+        "artist": "Deepti Heda"
+      },
+     {
+      "id": "20",
+      "title": "Shiv ji and Ganesh ji with Third eye",   
+      "category": "Sketch",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Sketch-19.jpg",
+      "price": 10000
+     },
+     {
+      "id": "21",
+      "title": "Lord Shiv",   
+      "category": "Sketch",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Sketch-20.jpg",
+      "price": 10000
+     },
+    {
+      "id": "22",
+      "title": "Lord Buddha",   
+      "category": "Sketch",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Sketch-21.jpg",
+      "price": 10000
+     },
+    {
+      "id": "23",
+      "title": "Goddess",   
+      "category": "Sketch",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Sketch-22.jpg",
+      "price": 10000
+     },
+    {
+      "id": "24",
+      "title": "Ramdoot Hanuman",   
+      "category": "Sketch",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Sketch-23.jpg",
+      "price": 10000
+     },
+    {
+      "id": "25",
+      "title": "Bal Gopala",   
+      "category": "Sketch",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Sketch-24.jpg",
+      "price": 10000
+     },
+    {
+      "id": "26",
+      "title": "Sai Baba",   
+      "category": "Sketch",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Sketch-25.jpg",
+      "price": 10000
+     },
+    {
+      "id": "27",
+      "title": "Sita Ram",   
+      "category": "Sketch",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Sketch-26.jpg",
+      "price": 10000
+     },
+    {
+      "id": "28",
+      "title": "Maa Saraswati",   
+      "category": "Sketch",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Sketch-27.jpg",
+      "price": 10000
+     },
+    {
+      "id": "29",
+      "title": "Dhanteras",   
+      "category": "Sketch",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Sketch-28.jpg",
+      "price": 10000
+     },
+    {
+      "id": "30",
+      "title": "Jesus Christ",   
+      "category": "Sketch",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Sketch-29.jpg",
+      "price": 10000
+     },
+    {
+      "id": "31",
+      "title": "Lord Ganesh",   
+      "category": "Sketch",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Sketch-30.jpg",
+      "price": 10000
+     },
+    {
+      "id": "32",
+      "title": "Shani dev",   
+      "category": "Sketch",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Sketch-31.jpg",
+      "price": 10000
+     },
+    {
+      "id": "33",
+      "title": "Maakhan Chor",   
+      "category": "Sketch",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Sketch-32.jpg",
+      "price": 10000
+     },
+    {
+      "id": "34",
+      "title": "Khatu Shyam ji",   
+      "category": "Sketch",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Sketch-33.jpg",
+      "price": 10000
+     },
+    {
+      "id": "35",
+      "title": "Pawan Putra",   
+      "category": "Sketch",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Sketch-34.jpg",
+      "price": 10000
+     },
+    {
+      "id": "36",
+      "title": "Namah Shivaya",   
+      "category": "Sketch",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Sketch-35.jpg",
+      "price": 10000
+     },
+    {
+      "id": "37",
+      "title": "Mahadev",   
+      "category": "Sketch",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Sketch-36.jpg",
+      "price": 10000
+     },
+    {
+      "id": "38",
+      "title": "Maa Parvati",   
+      "category": "Sketch",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Sketch-37.jpg",
+      "price": 10000
+     },
+    {
+      "id": "39",
+      "title": "Gandhi Ji",   
+      "category": "Sketch",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Sketch-38.jpg",
+      "price": 10000
+     },
+    {
+      "id": "40",
+      "title": "Mahadev",   
+      "category": "Sketch",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Sketch-39.jpg",
+      
+      "price": 10000
+     },
+    {
+      "id": "41",
+      "title": "Lord Narsimha",   
+      "category": "Sketch",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Sketch-40.jpg",
+      "price": 10000
+     },
+    {
+      "id": "42",
+      "title": "Jawarhlal Nehru",   
+      "category": "Sketch",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Sketch-41.jpg",
+      "price": 10000
+     },
+    {
+      "id": "43",
+      "title": "Lord Buddha",   
+      "category": "Sketch",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Sketch-42.jpg",
+      "price": 10000
+     },
+    {
+      "id": "44",
+      "title": "Shankar Parvati Ganesh",   
+      "category": "Sketch",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Sketch-43.jpg",
+      "price": 10000
+     },
+    {
+      "id": "45",
+      "title": "Lord Vishnu",   
+      "category": "Sketch",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Sketch-44.jpg",
+      "price": 10000
+     },
+    {
+      "id": "46",
+      "title": "Maa Laxmi",   
+      "category": "Sketch",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Sketch-45.jpg",
+      "price": 10000
+     },
+    {
+      "id": "47",
+      "title": "Lord Vishnu",   
+      "category": "Sketch",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Sketch-46.jpg",
+      "price": 10000
+     },
+     {
+      "id": "48",
+      "title": "Mandala-1",   
+      "category": "Mandala",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Mandala-1.jpg",
+      "price": 10000
+     },
+    {
+      "id": "49",
+      "title": "Mandala-2",   
+      "category": "Mandala",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Mandala-2.jpg",
+      "price": 10000
+     },
+    {
+      "id": "50",
+      "title": "Mandala-3",   
+      "category": "Mandala",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Mandala-3.jpg",
+      "price": 10000
+     },
+    {
+      "id": "51",
+      "title": "Mandala-5",   
+      "category": "Mandala",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Mandala-5.jpg",
+      "price": 10000
+     },
+    {
+      "id": "52",
+      "title": "Mandala-6",   
+      "category": "Mandala",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Mandala-6.jpg",
+      "price": 10000
+     },
+    {
+      "id": "53",
+      "title": "Mandala-7",   
+      "category": "Mandala",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Mandala-7.jpg",
+      "price": 10000
+     },
+    {
+      "id": "54",
+      "title": "Mandala-8",   
+      "category": "Mandala",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Mandala-8.jpg",
+      "price": 10000
+     },
+    {
+      "id": "55",
+      "title": "Mandala-9",   
+      "category": "Mandala",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Mandala-9.jpg",
+      "price": 10000
+     },
+    {
+      "id": "56",
+      "title": "Mandala-10",   
+      "category": "Mandala",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Mandala-10.jpg",
+      "price": 10000
+     },
+    {
+      "id": "57",
+      "title": "Mandala-11",   
+      "category": "Mandala",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Mandala-11.jpg",
+      "price": 10000
+     },
+    {
+      "id": "58",
+      "title": "Mandala-12",   
+      "category": "Mandala",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Mandala-12.jpg",
+      "price": 10000
+     },
+    {
+      "id": "59",
+      "title": "Mandala-13",   
+      "category": "Mandala",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Mandala-13.jpg",
+      "price": 10000
+     },
+    {
+      "id": "60",
+      "title": "Mandala-14",   
+      "category": "Mandala",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Mandala-14.jpg",
+      "price": 10000
+     },
+    {
+      "id": "61",
+      "title": "Mandala-15",   
+      "category": "Mandala",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Mandala-15.jpg",
+      "price": 10000
+     },
+    {
+      "id": "62",
+      "title": "Mandala-16",   
+      "category": "Mandala",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Mandala-16.jpg",
+      "price": 10000
+     },
+    {
+      "id": "63",
+      "title": "Teej Celebration",   
+      "category": "Coloured",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Coloured-2.jpg",
+      "price": 10000
+     },
+    {
+      "id": "64",
+      "title": "Flower and Rangoli",   
+      "category": "Coloured",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Coloured-3.jpg",
+      "price": 10000
+     },
+     {
+      "id": "65",
+      "title": "Gudi Padwa",
+      "category": "Coloured",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Coloured-4.jpg",
+      "price": 10000
+     },
+    {
+      "id": "66",
+      "title": "Happy Holi",
+      "category": "Coloured",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Coloured-5.jpg",
+      "price": 10000
+     },
+    {
+      "id": "67",
+      "title": "Mahadev",
+      "category": "Coloured",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Coloured-6.jpg",
+      "price": 10000
+     },
+    {
+      "id": "68",
+      "title": "Independence Day",
+      "category": "Coloured",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Coloured-7.jpg",
+      "price": 10000
+     },
+    {
+      "id": "69",
+      "title": "Shri Ram, Hanuman, Mahadev",
+      "category": "Coloured",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Coloured-8.jpg",
+      "price": 10000
+     },
+    {
+      "id": "70",
+      "title": "Om",
+      "category": "Coloured",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Coloured-9.jpg",
+      "price": 10000
+     },
+    {
+      "id": "71",
+      "title": "Shri Ganesh",
+      "category": "Coloured",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Coloured-10.jpg",
+      "price": 10000
+     },
+    {
+      "id": "72",
+      "title": "Shubh Labh",
+      "category": "Coloured",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Coloured-11.jpg",
+      "price": 10000
+     },
+    {
+      "id": "73",
+      "title": "Maa Laxmi",
+      "category": "Coloured",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Coloured-12.jpg",
+      "price": 10000
+     },
+    {
+      "id": "74",
+      "title": "Flowers",
+      "category": "Coloured",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Coloured-13.jpg",
+      "price": 10000
+     },
+    {
+      "id": "75",
+      "title": "Maa Parvati",
+      "category": "Coloured",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Coloured-14.jpg",
+      "price": 10000
+     },
+    {
+      "id": "76",
+      "title": "Shri Ganesh",
+      "category": "Coloured",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Coloured-15.jpg",
+      "price": 10000
+     },
+    {
+      "id": "77",
+      "title": "Bajrang Bali",
+      "category": "Coloured",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Coloured-16.jpg",
+      "price": 10000
+     },
+    {
+      "id": "78",
+      "title": "Oil Lamp",
+      "category": "Coloured",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Coloured-17.jpg",
+      "price": 10000
+     },
+    {
+      "id": "79",
+      "title": "Maa Laxmi",
+      "category": "Coloured",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Coloured-20.jpg",
+      "price": 10000
+     },
+    {
+      "id": "80",
+      "title": "Happy Holi",
+      "category": "Coloured",
+      "artist": "Deepti Heda",
+      "image": "https://deeptiart.com/Coloured-21.jpg",
+      "price": 10000
+     }
+    
+]

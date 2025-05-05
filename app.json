@@ -1,21 +1,26 @@
 {
   "expo": {
     "name": "deeptiart_mobile",
-    "slug": "deeptiart_mobile",
-    "version": "1.0.0",
+    "slug": "deeptiartmobile",
+    "version": "2.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/Logo.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": ".",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "foregroundImage": "./assets/images/FLogo.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.dinesshh.deeptiart_mobile"
     },
     "web": {
       "bundler": "metro",
@@ -36,6 +41,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "68ed570b-4f45-4d12-a43a-d069e5f31d86"
+      }
+    },
+    "owner": "dinesshh"
   }
 }
